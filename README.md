@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Olá, me chamo Arthur tenho 18 anos e estou cursando análise e desenvolvimento de sistemas. Estou sempre tentando ganhar conhecimento sobre tecnologia atraves de cursos e bootcamps.</p>
+<p align="left">Como desenvolvedor em início de carreira, tenho experiência em back-end com Java, Spring Boot,
+Node.js e SQL, além de ter realizado projetos em Python. Também possuo habilidades em desenvolvimento
+front-end, utilizando HTML, CSS e JavaScript. Atualmente, estou desenvolvendo um projeto de
+gerenciador de tarefas em Java, utilizando Spring e JavaScript.</p>
+<p align="left">Estou em busca de oportunidades que me permitam desenvolver e aprimorar minhas habilidades na área de tecnologia, enquanto contribuo ativamente para o crescimento da empresa com minha dedicação e paixão pelo setor.</p>
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Eu estou tentando criar novos projetos.<br>📚 Sempre em busca de conhecimento.</p>
+<p align="left">👨‍💻 Eu estou tentando criar novos projetos.<br>📚 Sempre em busca de conhecimento.</p>
 
 ###
 
