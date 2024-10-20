@@ -14,7 +14,7 @@ gerenciador de tarefas em Java, utilizando Spring e JavaScript.</p>
 
 ###
 
-<p align="left">👨‍💻 Eu estou tentando criar novos projetos.<br>📚 Sempre em busca de conhecimento.</p>
+<p align="left">👨‍💻 Possuo projetos usando Python, Java, React.js, Typescript e SQL/PostgreSQL.<br>📚 Sempre em busca de conhecimento.</p>
 
 ###
 
