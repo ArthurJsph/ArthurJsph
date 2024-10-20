@@ -18,6 +18,14 @@ gerenciador de tarefas em Java, utilizando Spring e JavaScript.</p>
 
 ###
 
+<h2 align="left">Contato</h2>
+
+###
+
+<p align="left">✉ arthurjose.pn01@gmail.com<br>📱(61)98342-5020</p>
+
+###
+
 <h2 align="left">Habilidades</h2>
 
 ###
