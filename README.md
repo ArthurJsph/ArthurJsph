@@ -1,30 +1,46 @@
-<h1 align="left">Olá, meu nome é Arthur José!</h1>
+# 👋 Olá, eu sou Arthur!
 
-###
+Sou um desenvolvedor full stack em início de carreira, com sólida experiência tanto no desenvolvimento front-end quanto back-end. Iniciei minha trajetória focando no desenvolvimento de interfaces de usuário, onde adquiri habilidades em criar experiências fluidas e responsivas para o usuário final. Ao longo do tempo, expandi meus conhecimentos para o desenvolvimento back-end, aprofundando-me em arquitetura de sistemas, lógica de negócios e integração de APIs
 
-<p align="left">Como desenvolvedor em início de carreira, tenho experiência em back-end com Java, Spring Boot,
-Node.js e SQL, além de ter realizado projetos em Python. Também possuo habilidades em desenvolvimento
-front-end, utilizando HTML, CSS e JavaScript. Atualmente, estou desenvolvendo um projeto de
-gerenciador de tarefas em Java, utilizando Spring e JavaScript.</p>
-<p align="left">Estou em busca de oportunidades que me permitam desenvolver e aprimorar minhas habilidades na área de tecnologia, enquanto contribuo ativamente para o crescimento da empresa com minha dedicação e paixão pelo setor.</p>
+---
 
-###
+## 🛠️ Habilidades Técnicas
 
-<h2 align="left">Sobre mim</h2>
+- **Back-end**: Java (Spring Boot), Node.js, Python, SQL/PostgreSQL  
+- **Front-end**: HTML, CSS, JavaScript (React.js, TypeScript)  
+- **Outros**: Desenvolvimento full stack, APIs REST, Git, metodologias ágeis  
 
-###
+---
 
-<p align="left">👨‍💻 Possuo projetos usando Python, Java, React.js, Typescript e SQL/PostgreSQL.<br>📚 Sempre em busca de conhecimento.</p>
+## 🚀 Projetos Recentes
 
-###
+### **Gerenciador de Tarefas**
+Uma aplicação full stack que combina **Java** no back-end (Spring Boot) e **JavaScript** no front-end. Este projeto foi desenvolvido para gerenciar tarefas de forma dinâmica e responsiva, proporcionando uma experiência de usuário fluida. Implementei funcionalidades como criação, edição, exclusão e categorização de tarefas, além de integração com banco de dados para persistência de dados.
 
-<h2 align="left">Contato</h2>
+### **Biblioteca Virtual**
+Atualmente, estou trabalhando em uma **biblioteca virtual full stack**, uma plataforma completa para gerenciar acervos digitais. A aplicação permite cadastro de livros, pesquisa avançada, empréstimos e devoluções, além de oferecer uma interface amigável e intuitiva para os usuários. Este projeto está sendo desenvolvido com as melhores práticas de programação e design, garantindo desempenho, segurança e usabilidade.
 
-###
+---
 
-<p align="left">✉ arthurjose.pn01@gmail.com<br>📱(61)98342-5020</p>
+## 🌱 Sobre Mim
 
-###
+👨‍💻 Trabalho com tecnologias como **Python**, **Java**, **React.js**, **TypeScript** e **SQL/PostgreSQL**.  
+📚 Sempre em busca de novos conhecimentos e desafios que me permitam crescer como profissional.  
+💡 Apaixonado por resolver problemas complexos e criar soluções inovadoras que impactam positivamente os usuários.
+
+---
+
+## 🤝 O Que Estou Buscando
+
+Estou em busca de oportunidades que me permitam desenvolver e aprimorar minhas habilidades na área de tecnologia, enquanto contribuo ativamente para o crescimento da empresa com minha dedicação, criatividade e paixão pelo setor. Estou especialmente interessado em projetos que envolvam desenvolvimento full stack, arquitetura de sistemas e inovação tecnológica.
+
+---
+
+## 📧 Contato
+
+Se você quiser conversar sobre oportunidades, colaborações ou apenas trocar ideias, fique à vontade para entrar em contato! 😊
+
+[LinkedIn](https://www.linkedin.com/in/arthur-js) | [GitHub](https://github.com/ArthurJsph) | [E-mail](mailto:arthurjose.pn01@gmail.com)
 
 <h2 align="left">Habilidades</h2>
 
