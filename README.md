@@ -5,7 +5,6 @@
 <div align="center">
   <h1>Olá! Eu sou Arthur 👋</h1>
   <p><strong>Desenvolvedor Full Stack | Go, Java (Spring Boot), React, Angular</strong></p>
-  <p>Transformando café em código robusto, escalável e de alto desempenho.</p>
 </div>
 
 <div align="center">
